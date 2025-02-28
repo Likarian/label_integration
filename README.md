@@ -1,8 +1,7 @@
 # Deep metric learning with in-batch feature vector constraints and unsupervised label integration
 
 Official code of the paper 'Deep metric learning with in-batch feature vector constraints and unsupervised label integration,' Evolutionary Intelligence, Volume 18, 2025. 
-
-Paper: https://link.springer.com/article/10.1007/s11063-024-11668-z](https://link.springer.com/article/10.1007/s12065-024-00990-z)
+[Paper](https://link.springer.com/article/10.1007/s12065-024-00990-z)
 
 ---
 # How to use
