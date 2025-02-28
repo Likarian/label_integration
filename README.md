@@ -15,7 +15,8 @@ python train_upper_smooth.py -gpu
 
 
 ### Short description
-- reg.py: in-batch feature vector constraints 
+- reg.py: in-batch feature vector constraints
+- Label_transfer in utils.py : unsupervised label integration
 
 ---
 # License
