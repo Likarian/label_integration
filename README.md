@@ -13,6 +13,10 @@ Paper: https://link.springer.com/article/10.1007/s11063-024-11668-z](https://lin
 ### Quick start
 python train_upper_smooth.py -gpu
 
+
+### Short description
+- reg.py: in-batch feature vector constraints 
+
 ---
 # License
 The code and data are allowed only for noncommercial usage. Please cite our paper if our data were used in your work.
